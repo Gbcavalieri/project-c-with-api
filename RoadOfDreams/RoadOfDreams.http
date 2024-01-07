@@ -1,0 +1,6 @@
+@RoadOfDreams_HostAddress = http://localhost:3306
+
+GET {{RoadOfDreams_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
